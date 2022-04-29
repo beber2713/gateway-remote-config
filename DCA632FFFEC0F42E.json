@@ -1,0 +1,20 @@
+
+  "gateway_conf": {
+    "gateway_ID": "DCA632FFFEC0F42E",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.6865021,
+    "ref_longitude": -3.9760251,
+    "ref_altitude": 100,
+    "contact_email": "gbcholley@gmail.com",
+    "description": "TTN Saint Pol de Leon"
+  }
+}
+
+
